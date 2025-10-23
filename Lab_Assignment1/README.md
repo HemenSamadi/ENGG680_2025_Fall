@@ -1,6 +1,8 @@
 # ENGG680_2025_fall
+
 This repository contains materials and solutions for the ENGG680 Assignemt 1 in the Fall 2025 semester.
 The Assingnemt 1 includes Python fundamentals, using the Pandas library for data cleaning and manipulation, Matplotlib for data analytics, and curve fitting.
+
 
 Group #12 - L01
 
